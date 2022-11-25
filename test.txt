@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is CC76-C01B
+
+ Directory of D:\Data\Wazir Anwar\Desktop\Git
+
+11/25/2022  11:13 AM    <DIR>          .
+11/25/2022  11:05 AM    <DIR>          ..
+11/25/2022  11:13 AM                 0 test.txt
+11/25/2022  11:10 AM                21 wazir.txt
+               2 File(s)             21 bytes
+               2 Dir(s)  265,766,739,968 bytes free
